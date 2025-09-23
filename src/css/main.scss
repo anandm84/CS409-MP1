@@ -94,7 +94,7 @@ body {
 /* HERO (vertically centered) */
 .hero {
   min-height: 100vh;
-  background: linear-gradient(rgba(0,0,0,0.22), rgba(0,0,0,0.22)), url('https://picsum.photos/1920/1080?blur=5') center/cover fixed no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.22), rgba(0,0,0,0.22)), url('https://picsum.photos/1920/1080') center/cover fixed no-repeat;
   display: flex;
   align-items: center; /* vertical centering requirement satisfied */
   justify-content: center;
